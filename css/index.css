@@ -13,14 +13,14 @@
   /* Radial Status */
   --rs-small-spacing: 2px;
   --rs-large-spacing: 3px;
-  --rs-width: 55px;
+  --rs-width: 2px;
   --rs-avatar-shape: 50%;
   --rs-online-color: #050219;
   --rs-idle-color: #faa61a;
   --rs-dnd-color: #f04747;
   --rs-offline-color: #636b75;
   --rs-streaming-color: #643da7;
-  --rs-invisible-color: #636b75;
+  --rs-invisible-color: #050219;
 }
 
 
