@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>3leon</h1>
 
 </body>
 </html>
