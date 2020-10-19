@@ -1,5 +1,5 @@
 :root {
-  --backgroundDark: rgb(56, 28, 37);
+  --backgroundDark: rgb(25, 28, 37);
   --backgroundDarker: rgb(20, 23, 31);
   --primary: #008ae6;
   --primaryGradient1: var(--primary);
