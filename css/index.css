@@ -1,5 +1,5 @@
 :root {
-  --backgroundDark: rgb(24, 28, 37);
+  --backgroundDark: rgb(56, 28, 37);
   --backgroundDarker: rgb(20, 23, 31);
   --primary: #008ae6;
   --primaryGradient1: var(--primary);
@@ -20,7 +20,7 @@
   --rs-dnd-color: #f04747;
   --rs-offline-color: #636b75;
   --rs-streaming-color: #643da7;
-  --rs-invisible-color: #050219;
+  --rs-invisible-color: #636b75;
 }
 
 
